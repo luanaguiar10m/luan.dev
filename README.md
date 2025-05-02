@@ -4,3 +4,4 @@
 -📚💻 Estudante de análise e desenvolvimento de sistemas.
 
 -🐍 Estudando python.
+
