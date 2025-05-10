@@ -17,15 +17,18 @@
 
 
 
-### 🌠 Projetos em órbita
+### 🌠 Projetos pessoais em órbita
 
 - 🔭 Projeto 1 – Em breve...
 
 
 
 ---
+### ☄️  Projetos Acadêmicos pelo espaço
 
-
+- 🔭 Projeto 1 - Em breve...
+  
+---
 ### 🛸 Me encontre  pela galáxia:
 
 <p align="center">
